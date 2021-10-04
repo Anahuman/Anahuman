@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anahuman
+- 👋 Hi, I’m @Anshuman
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on making apps.
